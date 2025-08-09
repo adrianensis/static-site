@@ -55,3 +55,7 @@ In `samples/sample_config.json` you'll find the main configurations. Example:
 Run `./static-site/scripts/run.sh` to run the site locally.
 
 If you are on Linux you can use the `scripts/usr/run.dekstop` launcher, to run without typing the command.
+
+## sample apps
+
+Take a look to my RSS app based on `static-site`: [https://github.com/adrianensis/rss](https://github.com/adrianensis/rss)
