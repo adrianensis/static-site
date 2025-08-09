@@ -1,0 +1,21 @@
+{
+    "nav":
+    {
+        "class": "default",
+        "entries":
+        [
+            {
+                "title": "Home",
+                "url": "/"
+            },
+            {
+                "title": "Notes",
+                "url": "/static-site/pages/notes/notes.html"
+            },
+            {
+                "title": "RSS",
+                "url": "/static-site/pages/rss/rss.html"
+            }
+        ]
+    }
+}

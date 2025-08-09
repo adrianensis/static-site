@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=BUILD
+Comment=
+Exec=../build.sh
+Icon=/usr/share/test.png
+Terminal=true
+Type=Application
+StartupNotify=false
+Path=

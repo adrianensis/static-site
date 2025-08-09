@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=
+Comment=
+Exec=../run.sh
+Icon=/usr/share/test.png
+Terminal=true
+Type=Application
+StartupNotify=false
+Path=
