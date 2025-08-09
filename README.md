@@ -59,3 +59,5 @@ If you are on Linux you can use the `scripts/usr/run.dekstop` launcher, to run w
 ## sample apps
 
 Take a look to my RSS app based on `static-site`: [https://github.com/adrianensis/rss](https://github.com/adrianensis/rss)
+
+Take a look to my Notes reading app based on `static-site`: [https://github.com/adrianensis/notes](https://github.com/adrianensis/notes)
